@@ -6,3 +6,4 @@ my first project on *gitHub*
 ***it was quite hard to understand how to do this***
 
 P.S there is some photos in [gallery](https://github.com/homt60/skillproject/blob/main/gallery.md)
+and here is my first [code](https://github.com/homt60/skillproject/blob/main/code.md) on python
