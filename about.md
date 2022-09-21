@@ -5,4 +5,4 @@ my first project on *gitHub*
 
 ***it was quite hard to understand how to do this***
 
-P.S there is some photos in ***gallery.md*** file
+P.S there is some photos in [gallery](https://github.com/homt60/skillproject/blob/main/gallery.md)
